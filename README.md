@@ -2,8 +2,8 @@
 
 Hey there! 👋 🚀 Welcome to My GitHub Profile!
 
-👋 I'm Devansh Shukla, a passionate B.Tech student at BML Munjal University and a B.Sc. Data Science enthusiast from IIT Madras. Welcome to my coding playground!
-
+👋 I'm Devansh Shukla, a passionate B.Tech student at BML Munjal University and a B.Sc. Data Science enthusiast from IIT Madras. Welcome to my coding playground!   
+My journey in data science, machine learning, and artificial intelligence is driven by a desire to harness the power of data to make informed decisions and create impactful solutions. I believe in leveraging technology to innovate and drive positive change in various domains, from healthcare to finance and beyond.
 ## About Me
 
 - 🎓 **Education**: B.Tech at BML Munjal University | B.Sc. Data Science at IIT Madras
@@ -37,7 +37,7 @@ Here's what I am currently working with:
 
 I love working on diverse and challenging projects. Here are a few highlights:
 
-- **[Project 1](#)**: Stocks dashboard web-app with help of streamlit
+- **[Project 1](https://github.com/devanshshukla0907/STOCKS_DASHBOARD_WITH_STREAMLIT.git)**: Stocks dashboard web-app with help of streamlit
 
 
 Check out my repositories for more exciting projects!
