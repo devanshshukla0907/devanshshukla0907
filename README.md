@@ -38,6 +38,7 @@ Here's what I am currently working with:
 I love working on diverse and challenging projects. Here are a few highlights:
 
 - **[Project 1](https://github.com/devanshshukla0907/STOCKS_DASHBOARD_WITH_STREAMLIT.git)**: Stocks dashboard web-app with help of streamlit
+- **[Project 2](https://github.com/devanshshukla0907/STOCKS_DASHBOARD_WITH_STREAMLIT.git)**: Web App for managing personal finance
 
 
 Check out my repositories for more exciting projects!
